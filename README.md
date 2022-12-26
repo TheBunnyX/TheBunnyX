@@ -66,9 +66,8 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 
 ###  :trophy:Achievement And Certificate :
 
-<div id="header" align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBunnyX&hide=javascript,css,scss,html&theme=tokyonight)
-  
+<div id="header" align="center">
 </br></br>
 </div>
 
