@@ -24,7 +24,7 @@
 </br>- 👀 I’m interested in Application Developer, Web Developer, Software Engineer and AI Engineer.</br>
 </br>- 🌱 I’m currently learning in Python SQL Java Html CSS and Javascipt.</br>
 </br>- 📫 You can keep in touch me Instagram @Mongkol_Chut</br> 
-</br>- 👋 My Portfolio is https://thebunnyx.github.io/Monkol.Hatit/</br>
+</br>- 💎 My Portfolio is https://thebunnyx.github.io/Monkol.Hatit/</br>
 
 </br></br>
 
