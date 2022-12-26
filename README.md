@@ -48,8 +48,8 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 
 ###  :hammer_and_wrench: Languages and Tools :
 
-https://github-readme-streak-stats.herokuapp.com/?user=TheBunnyX
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheBunnyX&theme=dracula)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 TheBunnyX/TheBunnyX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
