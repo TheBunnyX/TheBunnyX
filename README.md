@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/htSeueZxZ2RkBPrIe1/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/htSeueZxZ2RkBPrIe1/giphy.gif" width="150"/>
 </div>
 <!--- 
 <div id="header" align="center">
@@ -21,7 +21,7 @@
 </br>- 👋 Hi, I’m </br>
 </br>- 👀 I’m interested in Application Developer, Web Developer, Software Engineer and AI Engineer.</br>
 </br>- 🌱 I’m currently learning in Python SQL Java Html CSS and Javascipt.</br>
-</br>- 📫 You can reach me Instagram @Mongkol_Chut</br> 
+</br>- 📫 You can keep in touch me Instagram @Mongkol_Chut</br> 
 
 </br></br>
 
