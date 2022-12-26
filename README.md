@@ -49,11 +49,12 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 ###  :hammer_and_wrench: Languages and Tools :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBunnyX)](https://github.com/TheBunnyX)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/TheBunnyX)
 <div id="header" align="center">
 </div>
 ---
 
-### achievement and certificate :
+### :Achievement And Certificate :
 
 <div id="header" align="center">
 </div>
