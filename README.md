@@ -1,11 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/htSeueZxZ2RkBPrIe1/giphy.gif" width="100"/>
 </div>
-
+<!--- 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=TheBunnyX&style=flat-square&color=blue" alt=""/>
 </div>
-<!---
 --->
 </br></br>
 
