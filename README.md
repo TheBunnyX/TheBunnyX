@@ -9,7 +9,7 @@
 </br></br>
 
 ---
-</br></br>
+
 ### :fire: My Stats :
 </br>- 👋 Hi, I’m @TheBunnyX</br>
 </br>- 👀 I’m interested in ...</br>
@@ -42,6 +42,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</br></br>
 </div>
 
 
@@ -51,7 +52,10 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBunnyX)](https://github.com/TheBunnyX)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBunnyX&theme=transparent)](https://github.com/TheBunnyX)
+
+</br></br>
 <div id="header" align="center">
+  
 </div>
 
 ---
@@ -59,6 +63,11 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 ###  :trophy:Achievement And Certificate :
 
 <div id="header" align="center">
+  
+  
+  
+  
+</br></br>
 </div>
 
 <!---
