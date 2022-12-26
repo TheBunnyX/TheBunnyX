@@ -50,7 +50,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 <div align = "center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheBunnyX&theme=dracula)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
-<div>
+</div>
 <!---
 TheBunnyX/TheBunnyX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
