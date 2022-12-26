@@ -16,9 +16,9 @@
 </br>- 💞️ I’m looking to collaborate on ...</br>
 </br>- 📫 How to reach me ...</br>
 
-
----
 </br></br>
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align = "center">
