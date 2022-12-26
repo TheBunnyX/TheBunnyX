@@ -66,7 +66,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 
 ###  :trophy:Achievement And Certificate :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBunnyX&css_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBunnyX&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <div id="header" align="center">
 </br></br>
 </div>
