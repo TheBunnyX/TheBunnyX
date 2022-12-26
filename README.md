@@ -46,7 +46,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 
 ---
 
-###  :hammer_and_wrench: Languages and Tools :
+###  :hammer_and_wrench&nbsp;: Languages and Tools :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBunnyX)](https://github.com/TheBunnyX)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBunnyX&theme=transparent)](https://github.com/TheBunnyX)
@@ -55,7 +55,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 
 ---
 
-### :trophy:Achievement And Certificate :
+### :trophy&nbsp; :Achievement And Certificate :
 
 <div id="header" align="center">
 </div>
@@ -63,7 +63,6 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 <!---
 TheBunnyX/TheBunnyX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheBunnyX&theme=dracula)](https://git.io/streak-stats)
 this is https://github.com/devicons/devicon/tree/master/icons for icon
 --->
 
