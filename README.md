@@ -12,13 +12,13 @@
 
 ### :fire: My Stats :
 
-</br>- 👋 Hello, I’m Mongk้นื Hatit @TheBunnyX</br>
+</br>- 👋 Hello, I’m Mongkhon Hatit. @TheBunnyX</br>
 </br>- 📚 Now I'm studying in Bachelor degree of Artificial Intelligence at Huachiew Chalermprakiet University.</br>
+</br>- 👋 Web developer </br>
 </br>- 👋 Hi, I’m </br>
-</br>- 👋 Hi, I’m </br>
-</br>- 👀 I’m interested in Software Developer </br>
-</br>- 🌱 I’m currently learning in </br>
-</br>- 📫 How to reach me Instagram </br> 
+</br>- 👀 I’m interested in Web Developer, Software engineer and AI Engineer.</br>
+</br>- 🌱 I’m currently learning in Python SQL Java and Html CSS Javascipt And .</br>
+</br>- 📫 You can reach me Instagram @Mongkol_Chut</br> 
 
 </br></br>
 
