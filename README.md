@@ -48,9 +48,8 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 
 ###  :hammer_and_wrench: Languages and Tools :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBunnyX)](https://github.com/TheBunnyX)
-
 <div id="header" align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBunnyX)](https://github.com/TheBunnyX)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBunnyX)]
 </div>
 <!---
