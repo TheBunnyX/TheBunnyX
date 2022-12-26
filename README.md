@@ -12,12 +12,15 @@
 
 ### :fire: My Stats :
 
+<div id="header" align="center">
+  <img src="https://matlensilver.com/wp-content/uploads/2021/07/new.gif" width="100"/>
+</div>
 </br>- 👋 Hello, I’m Mongkhon Hatit. @TheBunnyX</br>
 </br>- 📚 Now I'm studying in Bachelor degree of Artificial Intelligence at Huachiew Chalermprakiet University.</br>
-</br>- 👋 Web developer </br>
+</br>- 👋 My Hobby is  </br>
 </br>- 👋 Hi, I’m </br>
-</br>- 👀 I’m interested in Web Developer, Software engineer and AI Engineer.</br>
-</br>- 🌱 I’m currently learning in Python SQL Java and Html CSS Javascipt And .</br>
+</br>- 👀 I’m interested in Application Developer, Web Developer, Software Engineer and AI Engineer.</br>
+</br>- 🌱 I’m currently learning in Python SQL Java Html CSS and Javascipt.</br>
 </br>- 📫 You can reach me Instagram @Mongkol_Chut</br> 
 
 </br></br>
