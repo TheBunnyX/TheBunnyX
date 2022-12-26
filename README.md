@@ -13,7 +13,7 @@
 ### :fire: My Stats :
 
 <div id="header" align="center">
-  <img src="https://matlensilver.com/wp-content/uploads/2021/07/new.gif" width="100"/>
+  <img src="https://matlensilver.com/wp-content/uploads/2021/07/new.gif" width="500"/>
 </div>
 </br>- 👋 Hello, I’m Mongkhon Hatit. @TheBunnyX</br>
 </br>- 📚 Now I'm studying in Bachelor degree of Artificial Intelligence at Huachiew Chalermprakiet University.</br>
