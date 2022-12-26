@@ -12,8 +12,8 @@
 
 ### :fire: My Stats :
 
-</br>- 👋 Hello, I’m Mongkol Hatit @TheBunnyX</br>
-</br>- 📚 Now I'm studying in Bachelor degree of ..... at ..... university.</br>
+</br>- 👋 Hello, I’m Mongk้นื Hatit @TheBunnyX</br>
+</br>- 📚 Now I'm studying in Bachelor degree of Artificial Intelligence at Huachiew Chalermprakiet University.</br>
 </br>- 👋 Hi, I’m </br>
 </br>- 👋 Hi, I’m </br>
 </br>- 👀 I’m interested in Software Developer </br>
