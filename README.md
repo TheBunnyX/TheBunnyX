@@ -13,13 +13,12 @@
 ### :fire: My Stats :
 
 </br>- 👋 Hello, I’m Mongkol Hatit @TheBunnyX</br>
-</br>- 👋 Hi, I’m </br>
+</br>- 📚 Now I'm studying in Bachelor degree of ..... at ..... university.</br>
 </br>- 👋 Hi, I’m </br>
 </br>- 👋 Hi, I’m </br>
 </br>- 👀 I’m interested in Software Developer </br>
-</br>- 🌱 I’m currently learning ...</br>
-</br>- 💞️ I’m looking to collaborate on ...</br>
-</br>- 📫 How to reach me ...</br>
+</br>- 🌱 I’m currently learning in </br>
+</br>- 📫 How to reach me Instagram </br> 
 
 </br></br>
 
