@@ -52,7 +52,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 
 ---
 
-###  :hammer_and_wrench: My SkillLanguages and Tools :
+###  :hammer_and_wrench: My Skill Languages and Tools :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBunnyX)](https://github.com/TheBunnyX)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBunnyX&theme=transparent)](https://github.com/TheBunnyX)
