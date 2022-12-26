@@ -7,15 +7,13 @@
 </div>
 </br></br>
 ---
-
 ### :fire: My Stats :
-
 </br>- 👋 Hi, I’m @TheBunnyX</br>
 </br>- 👀 I’m interested in ...</br>
 </br>- 🌱 I’m currently learning ...</br>
 </br>- 💞️ I’m looking to collaborate on ...</br>
 </br>- 📫 How to reach me ...</br>
-
+---
 </br></br>
 <div align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
