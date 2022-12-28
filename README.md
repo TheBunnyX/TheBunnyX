@@ -21,10 +21,10 @@
 </div>
 </br>- 👋 Hello, I’m Mongkhon Hatit. @TheBunnyX</br>
 </br>- 📚 Now I'm studying in Bachelor degree of Artificial Intelligence at Huachiew Chalermprakiet University.</br>
-</br>- 🎮 My Hobby is Play game ,Feed the cat, Cooking, Make a song, Investment and Make crafts</br>
+</br>- 🎮 My Hobby is Play game ,Feed the cat, Cooking, Make a song, Investment and Make crafts.</br>
 </br>- 👀 I’m interested in Application Developer, Web Developer, Software Engineer and AI Engineer.</br>
 </br>- 🌱 I’m currently learning in Python SQL Java Html CSS and Javascipt.</br>
-</br>- 📫 You can keep in touch me Instagram @Mongkol_Chut</br> 
+</br>- 📫 You can keep in touch me Instagram. @Mongkol_Chut</br> 
 </br>- 💎 My Portfolio is https://thebunnyx.github.io/Monkol.Hatit/</br>
 
 </br></br>
