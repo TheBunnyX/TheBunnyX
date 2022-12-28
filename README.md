@@ -39,6 +39,8 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 
 ### :hammer_and_wrench: Languages and Tools :
 </br></br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheBunnyX&theme=vue&bg_color=0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!---
 this is https://github.com/devicons/devicon/tree/master/icons for icon
 --->
@@ -79,14 +81,33 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 ###  :trophy:Achievement And Certificate :
 
 <div id="header" align="center">
+  <img src="https://cdn.pixabay.com/photo/2021/09/03/15/37/mountain-6596074_1280.jpg" width="100px"> Hiking  
+<img src="https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_1280.jpg" width="100px"> Reading  
+<img src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_1280.jpg" width="100px"> Programming  
+
+or
+
+<img src="https://cdn.pixabay.com/photo/2021/09/03/15/37/mountain-6596074_1280.jpg" width="100px"> <img src="https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_1280.jpg" width="100px"> <img src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_1280.jpg" width="100px">
+
 </br></br>
 </div>
 
+</br></br>
 
 ---
 
 ###  :handshake:Activitys and Volunteer:
 
+<img src="https://cdn.pixabay.com/photo/2021/09/03/15/37/mountain-6596074_1280.jpg" width="100px"> Hiking  
+<img src="https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_1280.jpg" width="100px"> Reading  
+<img src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_1280.jpg" width="100px"> Programming  
+
+or
+
+<img src="https://cdn.pixabay.com/photo/2021/09/03/15/37/mountain-6596074_1280.jpg" width="100px"> <img src="https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_1280.jpg" width="100px"> <img src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_1280.jpg" width="100px">
+
+
+</br></br>
 <!---
 TheBunnyX/TheBunnyX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
