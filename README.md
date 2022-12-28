@@ -37,7 +37,7 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: My Coding Languages and Tools :
 </br></br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheBunnyX&theme=vue&bg_color=0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -66,10 +66,11 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 
 ---
 
-###  :hammer_and_wrench: My Skill Languages and Tools :
+###  :hammer_and_wrench: My Other Skill and Tools :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBunnyX)](https://github.com/TheBunnyX)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBunnyX&theme=transparent)](https://github.com/TheBunnyX)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheBunnyX&theme=vue&bg_color=0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </br></br>
 <div id="header" align="center">
