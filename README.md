@@ -139,9 +139,8 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 ---
 
 ###  :hammer_and_wrench: My Other Skill and Tools :
-</br></br>
 <div align = "left">
-</br>&emsp;&emsp;💥 Programming languages :<br>
+</br>&emsp;&emsp;💥 UX UI Design :<br>
 <div align="center"
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
@@ -166,14 +165,14 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 </p>
 
 </div>
-</br>&emsp;&emsp;📚 Frameworks and Libraries :<br>
+</br>&emsp;&emsp;📚 Video Editor :<br>
 <div align="center"
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
 </div>
-</br>&emsp;&emsp;🔨 Tools :<br>
+</br>&emsp;&emsp;🔨 Animator :<br>
 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
@@ -187,7 +186,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
 </div>
-</br>&emsp;&emsp;☁️ Database :<br><br>
+</br>&emsp;&emsp;☁️ Make 3d model :<br><br>
 <div align="center"
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
@@ -199,8 +198,8 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
-
 </div>  
+</br>&emsp;&emsp;🔨 Graphic Design :<br>
 <div>
 </br></br>
 
@@ -216,6 +215,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 or
 <a href="https://freeimage.host/i/HT7pTEQ"><img src="https://iili.io/HT7pTEQ.md.jpg" alt="HT7pTEQ.md.jpg" border="0"></a>
 <img src="https://cdn.pixabay.com/photo/2021/09/03/15/37/mountain-6596074_1280.jpg" width="100px"> <img src="https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_1280.jpg" width="100px"> <img src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_1280.jpg" width="100px">
+
 
 </br></br>
 </div>
