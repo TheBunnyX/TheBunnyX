@@ -40,12 +40,10 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 ---
 
 ### :hammer_and_wrench: My Coding Languages and Tools :
-
 <div align = "left">
 </br>&emsp;&emsp;💥 Programming languages :<br>
+</br></br>
 <div align="center"
-     
-     
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
@@ -70,6 +68,7 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 </p>
 </div>
 </br>&emsp;&emsp;📚 Frameworks and Libraries :<br>
+</br></br>
 <div align="center"
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
@@ -77,6 +76,7 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
 </div>
 </br>&emsp;&emsp;🔨 Tools :<br>
+</br></br>
 <div align="center"
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
@@ -85,18 +85,19 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
 </div>
 </br>&emsp;&emsp;☁️ Database :<br><br>
+</br></br>
 <div align="center"
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
+  </br></br>
   <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
-
 </div>  
 <div>
 <br></br>
@@ -138,6 +139,8 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 ###  :hammer_and_wrench: My Other Skill and Tools :
 <div align = "left">
 </br>&emsp;&emsp;💥 UX UI Design :<br>
+
+
 <div align="center"
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
