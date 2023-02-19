@@ -130,7 +130,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBunnyX)](https://github.com/TheBunnyX)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBunnyX&theme=transparent)](https://github.com/TheBunnyX)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheBunnyX&theme=vue&bg_color=FFFFFF&point=00FF00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheBunnyX&theme=vue&bg_color=FFFFFF&point=00FF00)]
 </div>
 </br></br>
 
