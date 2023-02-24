@@ -106,10 +106,12 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 </br>&emsp;&emsp;☁️ Database :<br><br>
 </br></br>
 <div align="center"
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
+     
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Java" alt="Java" width="90" height="90"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="React" alt="React" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Material UI" alt="Material UI" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
   </br></br>
   <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -121,10 +123,14 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 </br>&emsp;&emsp;🎛 Editor IDE :<br><br>
 </br></br>
 <div align="center"
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
+     
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" title="React" alt="React" width="70" height="80"/>&nbsp;
+  <img src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Material UI" width="80" height="80"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="Material UI" width="80" height="80"/>&nbsp;
+  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2022/02/studio.svg.png" alt="Material UI" width="90" height="90"/>&nbsp;
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Material UI" width="80" height="80"/>&nbsp;
   </br></br>
   <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
