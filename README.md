@@ -9,18 +9,16 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 <div >
 
 </div>
+<!---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/htSeueZxZ2RkBPrIe1/giphy.gif" width="150"/>
 </div>
-<!--- 
+
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=TheBunnyX&style=flat-square&color=blue" alt=""/>
 </div>
 --->
 </br></br>
-
----
-
 ### :fire: My Stats :
 
 <div id="header" align="center">
