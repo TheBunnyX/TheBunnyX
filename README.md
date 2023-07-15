@@ -1,6 +1,5 @@
 <div id="header" align="center">
-:fire: 
-  
+:fire:  
 # Mongkhon's Portfolio 
   
 </br></br>
