@@ -1,6 +1,6 @@
 <div id="header" align="center">
 :fire: 
-  #Mongkhon's Portfolio :
+  #Mongkhon's Portfolio 
 </br></br>
 </div>
 <!---
