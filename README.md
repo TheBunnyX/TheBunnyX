@@ -187,7 +187,6 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="80" height="80"/>&nbsp;
   <img src="https://framerusercontent.com/images/zn5C069NR8y76RBU1rKB9p8lgCM.png" title="Adobe XD" alt="Adobe XD" width="80" height="80"/>&nbsp;   
   <img src="https://pbs.twimg.com/profile_images/1296533170230374401/fgqQLHQo_400x400.png" title="Adobe XD" alt="Adobe XD" width="80" height="80"/>&nbsp;  
-  
   </br><br>
 <p>
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
@@ -218,15 +217,18 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
   <img src="https://d2t1xqejof9utc.cloudfront.net/groups/pictures/1502/original.png?1575539176" title="Zbrush" alt="Zbrush" width="100" height="100"/>&nbsp;
   <img src="https://img.icons8.com/color/512/autodesk-maya.png" title="maya" alt="maya" width="100" height="100"/>&nbsp;
   <img src="https://cmm.nl/wp-content/uploads/2015/08/cinema-4d-icon.png" title="cinema4d" alt="cinema4d" width="85" height="100"/>&nbsp;
+  <!---
   <img src="https://cdn.shopify.com/s/files/1/0226/7535/7773/products/Archicad_24_square_grande.png" title="Archicad" alt="Archicad" width="110" height="110"/>&nbsp;
-  </br><br>
+  --->
 <p>
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Solid WorkS-%23B92B27.svg?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ZBrush-2F3134?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/maya%203D-4285F4?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Cinema 4D-0078D7?style=for-the-badge&logoColor=white" />
+ <!---
   <img src="https://img.shields.io/badge/Archicad-%233B4D98.svg?style=for-the-badge&logoColor=white" />
+ --->
 </p>
 </div>
 </br>&emsp;&emsp;☁️ Graphic Design :<br><br>
@@ -243,6 +245,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 </p>
+ </br></br>
 </div>  
 </br>&emsp;&emsp;🔨 Make a game :<br>
 </br></br>
