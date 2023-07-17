@@ -94,7 +94,7 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 </br></br>
 <div align="center"
 
-  <img src="https://static.macupdate.com/products/56860/l/wondershare-edrawmax-logo.png" title="Java" alt="Java" width="80" height="80"/>&nbsp;
+  <img src="https://i-cdn.apsgo.com/cdn/Z1S0578uIt7rYV0mz4bGrStPTXwSV5Emyp8tAoTj.webp" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
