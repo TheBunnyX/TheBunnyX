@@ -186,6 +186,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 ---
 
 ###  :hammer_and_wrench: My Other Skill and Tools :
+<div align = "left">
 </br>&emsp;&emsp;💥 UX UI Design :<br>
 </br></br>
 <div align="center"
