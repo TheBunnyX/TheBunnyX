@@ -95,11 +95,10 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 <div align="center"
 
   <img src="https://i-cdn.apsgo.com/cdn/Z1S0578uIt7rYV0mz4bGrStPTXwSV5Emyp8tAoTj.webp" title="Java" alt="Java" width="80" height="80"/>&nbsp;
-
   </br></br>
 <p>
    <img src="https://img.shields.io/badge/Edrawmax-018bff?style=for-the-badge&logoColor=white" />
-  
+ 
 </p>  
 </div>
 </br>&emsp;&emsp;☁️ Database :<br><br>
