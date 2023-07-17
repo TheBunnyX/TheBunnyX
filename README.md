@@ -58,7 +58,6 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Java" alt="Java" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
-  
   </br><br>
 <p>
   
