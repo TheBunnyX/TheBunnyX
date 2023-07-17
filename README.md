@@ -189,6 +189,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 </br>&emsp;&emsp;💥 UX UI Design :<br>
 </br></br>
 <div align="center"
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="Adobe XD" alt="Adobe XD" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="Adobe XD" alt="Adobe XD" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="80" height="80"/>&nbsp;
