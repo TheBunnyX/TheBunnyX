@@ -195,14 +195,14 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="70" height="70"/>&nbsp;
   <img src="https://framerusercontent.com/images/zn5C069NR8y76RBU1rKB9p8lgCM.png" title="Adobe XD" alt="Adobe XD" width="70" height="70"/>&nbsp;   
   <img src="https://pbs.twimg.com/profile_images/1296533170230374401/fgqQLHQo_400x400.png" title="Adobe XD" alt="Adobe XD" width="70" height="70"/>&nbsp;
-  </br><br>
+  
 <p>
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer-%232284F2.svg?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Origami%20Studio 3-%2310AAEB?style=for-the-badge&logoColor=white" />
 </p>
-
+</br><br>
 </div>
 </br>&emsp;&emsp;📚 Video Editor :<br>
 </br></br>
