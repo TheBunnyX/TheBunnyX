@@ -98,7 +98,7 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 
   </br></br>
 <p>
-   <img src="https://img.shields.io/badge/test-018bff?style=for-the-badge&logoColor=white" />
+   <img src="https://img.shields.io/badge/Edrawmax-018bff?style=for-the-badge&logoColor=white" />
   
 </p>  
 </div>
