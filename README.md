@@ -98,8 +98,8 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 
   </br></br>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="	https://img.shields.io/badge/Edrawmax?style=for-the-badge&logo=dart&logoColor=white" />
+   <img src="https://img.shields.io/badge/test-61DAFB" />
+  
 </p>  
 </div>
 </br>&emsp;&emsp;☁️ Database :<br><br>
