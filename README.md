@@ -73,6 +73,7 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 </br>&emsp;&emsp;📚 Frameworks and Libraries :<br>
 </br></br>
 <div align="center"
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
@@ -90,6 +91,7 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 </br>&emsp;&emsp;🔨 Tools :<br>
 </br></br>
 <div align="center"
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
@@ -187,6 +189,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 </br>&emsp;&emsp;💥 UX UI Design :<br>
 </br></br>
 <div align="center"
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="Adobe XD" alt="Adobe XD" width="80" height="80"/>&nbsp;   
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="Adobe XD" alt="Adobe XD" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="80" height="80"/>&nbsp;
