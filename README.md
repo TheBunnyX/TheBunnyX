@@ -92,9 +92,7 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
-  <!---
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
-  --->
+  <!---<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;--->
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
   </br></br>
@@ -113,9 +111,7 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <!---
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  --->
+  <!---<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />--->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>  
