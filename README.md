@@ -32,7 +32,7 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 <br>- 📚 Now I'm studying in Bachelor degree of Artificial Intelligence at Huachiew Chalermprakiet University.</br>
 <br>- 🎮 My Hobby is Play game ,Feed the cat, Cooking, Make a song, Investment and Make crafts.</br>
 <br>- 🧠 I’m interested in Application Developer, Web Developer, Software Engineer and AI Engineer.</br>
-<br>- 👀 I’m have Programming Language Skill is C Python SQL Java Html CSS SQL and Flutter.</br>
+<br>- 👀 I’m have Programming Language Skill for Website Development,Software Development,Application Development and Data Analysis.</br>
 <br>- 🌱 I’m currently learning in PHP C# and Javascript.</br>
 <br>- 📫 You can keep in touch me Instagram. @Mongkol_Chut</br> 
 <br>- 💎 My Portfolio is https://thebunnyx.github.io/</br>
