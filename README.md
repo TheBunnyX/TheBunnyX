@@ -22,7 +22,7 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 </div>
 --->
 
-### :fire: My Stats :
+### 💥: My Stats :
 
 <div id="header" align="center">
   <img src="https://matlensilver.com/wp-content/uploads/2021/07/new.gif" width="350"/>
