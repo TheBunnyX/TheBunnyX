@@ -289,7 +289,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 </br></br>
 
 ---
-
+<!---
 ###  :trophy:My Achievement And Certificate :
 
 <div id="header" align="center">
@@ -307,7 +307,7 @@ or
 
 </br></br>
 
----
+
 
 ###  :handshake:Overview My Project :
 
@@ -320,7 +320,7 @@ or
 <img src="https://cdn.pixabay.com/photo/2021/09/03/15/37/mountain-6596074_1280.jpg" width="100px"> <img src="https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_1280.jpg" width="100px"> <img src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_1280.jpg" width="100px">
 
 ---
-
+--->
 ###  :handshake:My Activitys and Event:
 
 <img src="https://cdn.pixabay.com/photo/2021/09/03/15/37/mountain-6596074_1280.jpg" width="100px"> Hiking  
