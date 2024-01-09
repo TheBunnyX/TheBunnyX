@@ -64,7 +64,7 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <!---<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />--->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -78,36 +78,35 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 </br>&emsp;&emsp;📚 Frameworks and Libraries :<br>
 </br></br>
 <div align="center"
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
+  <!---<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;-->
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp; -->
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp; -->
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp; -->
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
   </br></br>
 <p>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <!--<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
-  <img src="https://img.shields.io/badge/Next.js-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />-->
+  <!--<img src="https://img.shields.io/badge/Next.js-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white" />-->
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />-->
+  <!--<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />-->
+  <!--<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />-->
+  <!--<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />-->
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -139,7 +138,7 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <!---<img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" /> -->
   
 </p>
 </div>
@@ -235,29 +234,28 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
   <img src="https://img.shields.io/badge/DaVinci Resolve-%23B92B27.svg?style=for-the-badge&logoColor=white" />
 </p>
 </div>
+
 </br>&emsp;&emsp;🔨 Make 3d model And Animator :<br>
 </br></br>
+
 <div align="center"
-     
-  <img src="https://www.pngkey.com/png/full/343-3436326_i-want-to-create-a-blender-logo-design.png" title="blender" alt="blender" width="80" height=""/>&nbsp;
-  <img src="https://seeklogo.com/images/S/SolidWorks-logo-7D1FEAE269-seeklogo.com.png" title="SolidWorks" alt="SolidWorks" width="120" height="80"/>&nbsp;
-  <img src="https://d2t1xqejof9utc.cloudfront.net/groups/pictures/1502/original.png?1575539176" title="Zbrush" alt="Zbrush" width="100" height="100"/>&nbsp;
+ 
+  <!--- <img src="https://seeklogo.com/images/S/SolidWorks-logo-7D1FEAE269-seeklogo.com.png" title="SolidWorks" alt="SolidWorks" width="120" height="80"/>
+  <!--- <img src="https://d2t1xqejof9utc.cloudfront.net/groups/pictures/1502/original.png?1575539176" title="Zbrush" alt="Zbrush" width="100" height="100"/>&nbsp; --->
+  <img src="https://www.pngkey.com/png/full/343-3436326_i-want-to-create-a-blender-logo-design.png" title="blender" alt="blender" width="80" height="80" />&nbsp;
   <img src="https://img.icons8.com/color/512/autodesk-maya.png" title="maya" alt="maya" width="100" height="100"/>&nbsp;
   <img src="https://cmm.nl/wp-content/uploads/2015/08/cinema-4d-icon.png" title="cinema4d" alt="cinema4d" width="85" height="100"/>&nbsp;
-  <!---
-  <img src="https://cdn.shopify.com/s/files/1/0226/7535/7773/products/Archicad_24_square_grande.png" title="Archicad" alt="Archicad" width="110" height="110"/>&nbsp;
-  --->
+  <!---<img src="https://cdn.shopify.com/s/files/1/0226/7535/7773/products/Archicad_24_square_grande.png" title="Archicad" alt="Archicad" width="110" height="110"/>&nbsp;--->
 <p>
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solid WorkS-%23B92B27.svg?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ZBrush-2F3134?style=for-the-badge&logoColor=white" />
+  <!---<img src="https://img.shields.io/badge/Solid WorkS-%23B92B27.svg?style=for-the-badge&logoColor=white" /> -->
+  <!---<img src="https://img.shields.io/badge/ZBrush-2F3134?style=for-the-badge&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/maya%203D-4285F4?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Cinema 4D-0078D7?style=for-the-badge&logoColor=white" />
- <!---
-  <img src="https://img.shields.io/badge/Archicad-%233B4D98.svg?style=for-the-badge&logoColor=white" />
- --->
+ <!---<img src="https://img.shields.io/badge/Archicad-%233B4D98.svg?style=for-the-badge&logoColor=white" />--->
 </p>
 </div>
+
 </br>&emsp;&emsp;☁️ Graphic Design :<br><br>
 </br></br>
 <div align="center"
