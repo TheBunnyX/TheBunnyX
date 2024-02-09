@@ -89,7 +89,7 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp; -->
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp; -->
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Material UI" alt="Material UI" width="90" height="90"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
@@ -209,7 +209,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 <div align="center"
  
   <!--- <img src="https://pbs.twimg.com/profile_images/1296533170230374401/fgqQLHQo_400x400.png" title="Adobe XD" alt="Adobe XD" width="70" height="70"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="Adobe XD" alt="Adobe XD" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg" title="Adobe XD" alt="Adobe XD" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="70" height="70"/>&nbsp;
   <img src="https://framerusercontent.com/images/zn5C069NR8y76RBU1rKB9p8lgCM.png" title="Adobe XD" alt="Adobe XD" width="70" height="70"/>&nbsp;   
   
@@ -261,7 +261,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 <div align="center"
      
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="80" height="80"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" title="powerpoint" alt="powerpoint" width="85" height="80"/>&nbsp;
   <p>
