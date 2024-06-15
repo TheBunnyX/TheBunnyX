@@ -112,17 +112,7 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>  
-</div>
-</br>&emsp;&emsp;🔨 Tools :<br>
-</br></br>
-<div align="center"
 
-  <img src="https://i-cdn.apsgo.com/cdn/Z1S0578uIt7rYV0mz4bGrStPTXwSV5Emyp8tAoTj.webp" title="Java" alt="Java" width="80" height="80"/>&nbsp;
-  </br></br>
-<p>
-   <img src="https://img.shields.io/badge/Edrawmax-018bff?style=for-the-badge&logoColor=white" />
- 
-</p>  
 </div>
 </br>&emsp;&emsp;☁️ Database :<br><br>
 </br></br>
