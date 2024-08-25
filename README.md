@@ -200,6 +200,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
  
   <img src="https://pbs.twimg.com/profile_images/1296533170230374401/fgqQLHQo_400x400.png" title="Adobe XD" alt="Adobe XD" width="70" height="70"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg" title="Adobe XD" alt="Adobe XD" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="70" height="70"/>&nbsp;
   <img src="https://framerusercontent.com/images/zn5C069NR8y76RBU1rKB9p8lgCM.png" title="Adobe XD" alt="Adobe XD" width="70" height="70"/>&nbsp;   
   
 <p>
