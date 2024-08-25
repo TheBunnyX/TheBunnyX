@@ -230,7 +230,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 
 <div align="center"
  
-  <!--- <img src="https://seeklogo.com/images/S/SolidWorks-logo-7D1FEAE269-seeklogo.com.png" title="SolidWorks" alt="SolidWorks" width="120" height="80"/>
+  <!--- <img src="https://seeklogo.com/images/S/SolidWorks-logo-7D1FEAE269-seeklogo.com.png" title="SolidWorks" alt="SolidWorks" width="120" height="80"/> --->
   <!--- <img src="https://d2t1xqejof9utc.cloudfront.net/groups/pictures/1502/original.png?1575539176" title="Zbrush" alt="Zbrush" width="100" height="100"/>&nbsp; --->
   <img src="https://www.pngkey.com/png/full/343-3436326_i-want-to-create-a-blender-logo-design.png" title="blender" alt="blender" width="80" height="80" />&nbsp;
   <img src="https://img.icons8.com/color/512/autodesk-maya.png" title="maya" alt="maya" width="100" height="100"/>&nbsp;
@@ -255,7 +255,7 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="80" height="80"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" title="powerpoint" alt="powerpoint" width="85" height="80"/>&nbsp;
   <p>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+  <!---<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> --->
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
