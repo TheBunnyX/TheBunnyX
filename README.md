@@ -230,19 +230,15 @@ this is https://github.com/devicons/devicon/tree/master/icons for icon
 
 <div align="center"
  
-  <!--- <img src="https://seeklogo.com/images/S/SolidWorks-logo-7D1FEAE269-seeklogo.com.png" title="SolidWorks" alt="SolidWorks" width="120" height="80"/> 
-  <img src="https://d2t1xqejof9utc.cloudfront.net/groups/pictures/1502/original.png?1575539176" title="Zbrush" alt="Zbrush" width="100" height="100"/>&nbsp; -->
+
   <img src="https://www.pngkey.com/png/full/343-3436326_i-want-to-create-a-blender-logo-design.png" title="blender" alt="blender" width="80" height="80" />&nbsp;
   <img src="https://img.icons8.com/color/512/autodesk-maya.png" title="maya" alt="maya" width="100" height="100"/>&nbsp;
   <img src="https://cmm.nl/wp-content/uploads/2015/08/cinema-4d-icon.png" title="cinema4d" alt="cinema4d" width="85" height="100"/>&nbsp;
-  <!--- <img src="https://cdn.shopify.com/s/files/1/0226/7535/7773/products/Archicad_24_square_grande.png" title="Archicad" alt="Archicad" width="110" height="110"/>&nbsp; -->
 <p>
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-  <!--- <img src="https://img.shields.io/badge/Solid WorkS-%23B92B27.svg?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ZBrush-2F3134?style=for-the-badge&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/maya%203D-4285F4?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Cinema 4D-0078D7?style=for-the-badge&logoColor=white" />
-  <!--- <img src="https://img.shields.io/badge/Archicad-%233B4D98.svg?style=for-the-badge&logoColor=white" /> -->
+ 
 </p>
 </div>
 
