@@ -34,7 +34,8 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 <br>- 🧠 I’m interested in Application Developer, Web Developer, Software Engineer and AI Engineer.</br>
 <!---<br>- 👀 I’m have Programming Language Skill for .</br> --->
 <br>- 🌱 I’m currently learning in PHP C# and Javascript.</br>
-<br>- 📫 You can keep in touch me Instagram. @Mongkol_Chut</br> 
+<br>- 📫 You can keep in touch me Email. mongkolhatit@gmail.com </br>
+<br>- 📫 You can keep in touch me Linkedin. www.linkedin.com/in/mongkhon-hatit/ </br>
 <br>- 💎 My Portfolio is https://thebunnyx.github.io/</br>
 </div>
 <!--
