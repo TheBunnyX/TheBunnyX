@@ -1,3 +1,152 @@
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Mongkhon%20Hatit&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Lifelong%20Learner&descSize=18&descAlignY=58)
+
+  <a href="https://github.com/TheBunnyX">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Mongkhon+%F0%9F%91%8B;AI+Engineering+Student+%F0%9F%A4%96;Aspiring+Software+Engineer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=TheBunnyX&style=for-the-badge&color=blue" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/TheBunnyX?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  </p>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```python
+class Mongkhon:
+    def __init__(self):
+        self.name = "Mongkhon Hatit"
+        self.alias = "TheBunnyX"
+        self.role = "AI Engineering Student"
+        self.university = "Huachiew Chalermprakiet University"
+        self.degree = "Bachelor of Artificial Intelligence"
+        self.location = "Thailand 🇹🇭"
+        self.interests = [
+            "Application Development",
+            "Web Development", 
+            "Software Engineering",
+            "Artificial Intelligence"
+        ]
+        self.currently_learning = ["PHP", "C#", "JavaScript"]
+        self.hobbies = [
+            "🎮 Gaming",
+            "🐱 Feeding cats",
+            "🍳 Cooking",
+            "🎵 Making songs",
+            "📈 Investment",
+            "🎨 Crafting"
+        ]
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
+
+me = Mongkhon()
+me.say_hi()
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### AI / Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheBunnyX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBunnyX&layout=compact&langs_count=8&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheBunnyX&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheBunnyX&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="mailto:mongkolhatit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mongkhon-hatit/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://thebunnyx.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://github.com/TheBunnyX">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)
+  
+  ⭐️ From [TheBunnyX](https://github.com/TheBunnyX) — *Thanks for visiting!*
+  
+</div>
+
+
+<!--
 <div id="header" align="center">
  
   
@@ -5,25 +154,14 @@
   
 </br></br>
 </div>
-<!---
-https://github.com/tandpfun/skill-icons
-https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
---->
 <div >
 
-</div>
-<!---
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/htSeueZxZ2RkBPrIe1/giphy.gif" width="150"/>
 </div>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=TheBunnyX&style=flat-square&color=blue" alt=""/>
 </div>
---->
-<!--
-### 💥: My Stats :
--->
+
 <div id="header" align="center">
   <img src="https://matlensilver.com/wp-content/uploads/2021/07/new.gif" width="350"/>
 </div>
@@ -32,12 +170,12 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
 <br>- 📚 Now I'm studying in Bachelor degree of Artificial Intelligence at Huachiew Chalermprakiet University.</br>
 <br>- 🎮 My Hobby is Play game ,Feed the cat, Cooking, Make a song, Investment and Make crafts.</br>
 <br>- 🧠 I’m interested in Application Developer, Web Developer, Software Engineer and AI Engineer.</br>
-<!---<br>- 👀 I’m have Programming Language Skill for .</br> --->
 <br>- 🌱 I’m currently learning in PHP C# and Javascript.</br>
 <br>- 📫 You can keep in touch me Email. mongkolhatit@gmail.com </br>
 <br>- 📫 You can keep in touch me Linkedin. www.linkedin.com/in/mongkhon-hatit/ </br>
 <br>- 💎 My Portfolio is https://thebunnyx.github.io/</br>
 </div>
+-->
 <!--
 </br><br>
 
