@@ -21,9 +21,9 @@ https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
   <img src="https://komarev.com/ghpvc/?username=TheBunnyX&style=flat-square&color=blue" alt=""/>
 </div>
 --->
-
+<!--
 ### 💥: My Stats :
-
+-->
 <div id="header" align="center">
   <img src="https://matlensilver.com/wp-content/uploads/2021/07/new.gif" width="350"/>
 </div>
