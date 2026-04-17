@@ -21,14 +21,15 @@
 class Mongkhon:
     def __init__(self):
         self.name = "Mongkhon Hatit"
+        self.nickname = "Chut"
         self.alias = "TheBunnyX"
-        self.role = "AI Engineering Student"
+        self.role = "AI Engineering And Full Stack Developer"
         self.university = "Huachiew Chalermprakiet University"
         self.degree = "Bachelor of Artificial Intelligence"
-        self.location = "Thailand 🇹🇭"
         self.interests = [
             "Application Development",
-            "Web Development", 
+            "Web Development",
+            "Game Development",
             "Software Engineering",
             "Artificial Intelligence"
         ]
