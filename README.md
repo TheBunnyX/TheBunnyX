@@ -3,7 +3,7 @@
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Mongkhon%20Hatit&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Lifelong%20Learner&descSize=18&descAlignY=58)
 
   <a href="https://github.com/TheBunnyX">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Mongkhon+%F0%9F%91%8B;AI+Engineering+Student+%F0%9F%A4%96;Aspiring+Software+Engineer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Mongkhon+%F0%9F%91%8B;Full+Stack+AI+Engineer+%F0%9F%A4%96;Aspiring+Software+Engineer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 
   <p>
