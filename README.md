@@ -139,20 +139,10 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Statistics
+## ⏱️ WakaTime Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheBunnyX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBunnyX&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheBunnyX&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheBunnyX&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div> -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
