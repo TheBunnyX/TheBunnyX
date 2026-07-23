@@ -143,12 +143,19 @@ me.say_hi()
 
 <!--START_SECTION:waka-->
 
-```txt
-Python           3 hrs 17 mins         ██████░░░░░░░░░░░░░░░░░░░   24.09 %
-HTML             2 hrs 37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.18 %
-Bash             1 hr 29 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-Blade Template   51 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-JavaScript       49 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+```text
+Total Time: 171 hrs 3 mins
+
+Python           103 hrs 15 mins       ███████████████░░░░░░░░░░   59.77 %
+HTML             32 hrs 28 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.80 %
+Markdown         10 hrs 22 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+Bash             5 hrs 36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+JavaScript       4 hrs 7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Blade Template   3 hrs 27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+PHP              3 hrs 21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Other            1 hr 42 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+CSS              1 hr 27 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Text             1 hr 12 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
