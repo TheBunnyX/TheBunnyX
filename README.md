@@ -142,6 +142,15 @@ me.say_hi()
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+Python           3 hrs 17 mins         ██████░░░░░░░░░░░░░░░░░░░   24.09 %
+HTML             2 hrs 37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.18 %
+Bash             1 hr 29 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+Blade Template   51 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+JavaScript       49 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
