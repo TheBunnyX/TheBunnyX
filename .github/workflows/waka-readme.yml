@@ -24,3 +24,4 @@ jobs:
           SHOW_TOTAL: true
           LANG_COUNT: 10
           CODE_LANG: text
+          BLOCKS: ->
