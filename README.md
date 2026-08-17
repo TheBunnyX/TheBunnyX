@@ -144,18 +144,18 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 209 hrs 3 mins
+Total Time: 210 hrs 32 mins
 
-Python           121 hrs 57 mins       >>>>>>>>>>>>>>-----------   57.29 %
-HTML             36 hrs 32 mins        >>>>---------------------   17.17 %
-Markdown         16 hrs 49 mins        >>-----------------------   07.90 %
-Bash             8 hrs 35 mins         >------------------------   04.03 %
-JavaScript       5 hrs 34 mins         >------------------------   02.62 %
-Blade Template   3 hrs 52 mins         -------------------------   01.82 %
-Other            3 hrs 48 mins         -------------------------   01.79 %
-PHP              3 hrs 46 mins         -------------------------   01.77 %
-Dart             2 hrs 6 mins          -------------------------   00.99 %
-CSS              1 hr 35 mins          -------------------------   00.75 %
+Python           121 hrs 57 mins       >>>>>>>>>>>>>>-----------   56.89 %
+HTML             36 hrs 32 mins        >>>>---------------------   17.05 %
+Markdown         16 hrs 49 mins        >>-----------------------   07.85 %
+Bash             8 hrs 35 mins         >------------------------   04.00 %
+JavaScript       5 hrs 34 mins         >------------------------   02.60 %
+Blade Template   3 hrs 52 mins         -------------------------   01.80 %
+Other            3 hrs 48 mins         -------------------------   01.78 %
+PHP              3 hrs 46 mins         -------------------------   01.76 %
+Dart             3 hrs 7 mins          -------------------------   01.46 %
+CSS              1 hr 35 mins          -------------------------   00.74 %
 ```
 
 <!--END_SECTION:waka-->
