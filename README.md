@@ -139,7 +139,7 @@ me.say_hi()
 
 ---
 
-## ⏱️ WakaTime Stats
+## ⏱️ Coding Time Stats
 
 <!--START_SECTION:waka-->
 
